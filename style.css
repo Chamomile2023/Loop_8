@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.baground_1{
+    position: relative;
+    width: 100%;
+    height: 650px;
+    background-color: rgb(250, 226, 230);
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+.background_2{
+    position: absolute;
+    top: 70px;
+    left: auto;
+    width: 1000px;
+    height: 80%;
+    background-color: #fff;
+    background-image: url(./images/background.jpg);
+    background-size: 30%;
+    background-repeat: no-repeat;
+}
